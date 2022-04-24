@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace agree
 {
-    internal class Class1
+    internal class Class2
     {
     }
 }
