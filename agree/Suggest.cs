@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace agree
 {
-    internal class Article2
+    internal class Suggest
     {
     }
 }
